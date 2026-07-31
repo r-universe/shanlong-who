@@ -5,3 +5,9 @@
 [submodule "DSIR"]
 	path = DSIR
 	url = https://github.com/shanlong-who/dsir
+[submodule "cataScience"]
+	path = cataScience
+	url = https://github.com/shanlong-who/catascience
+[submodule "exmort"]
+	path = exmort
+	url = https://github.com/shanlong-who/exmort
